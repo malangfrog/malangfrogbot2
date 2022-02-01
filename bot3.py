@@ -18,4 +18,4 @@ async def 개굴프사(ctx):
 
         
 
-bot.run('OTM3NzcxNTY1MjUxMTgyNjQy.Yfgl1A.2ZVu_-FTWLbxCU3E0H__qO_pGFI')
+bot.run('OTM3NzcxNTY1MjUxMTgyNjQy.Yfgl1A.lqxxK-9BcxDQRTjjtVxK-QbsOi8')
